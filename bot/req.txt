@@ -1,0 +1,4 @@
+aiogram
+pyqrcode
+aiohttp
+pypng
